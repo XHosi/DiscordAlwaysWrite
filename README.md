@@ -1,7 +1,7 @@
 # DiscordAlwaysWrite
 this utilizes discord API to send "writing" to any channel
 
-this kinda breaks discord TOS so use at your own risk.
+this kinda breaks discord TOS so use at your own risk lol
 
 # How to Use
 1. Download the 'DAPI.exe' from 'App' folder.
