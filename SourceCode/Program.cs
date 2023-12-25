@@ -12,7 +12,6 @@ namespace DAPI
             string ChannelID = ValidateInput("Enter ChannelID:", 19);
             var client = new HttpClient();
             client.BaseAddress = new Uri($"https://discord.com/api/v9/channels/{ChannelID}/typing");
-
             Task.Run(async () =>
             {
                 while (true)
