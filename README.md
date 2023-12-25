@@ -3,9 +3,12 @@ this utilizes discord API to send "writing" to any channel
 
 this kinda breaks discord TOS so use at your own risk.
 
-# how to use?
-download the App folder
-run DAPI.exe
-insert your discord key
-insert channelID in which you want to be constantly typing in
-if console says "writing..." it means it should work
+# Requirements
+- .NET 8 (or later) runtime installed on your system.
+
+# How to Use
+1. Download the 'App' folder.
+2. Run 'DAPI.exe'.
+3. Enter your Discord token when prompted.
+4. Enter the Channel ID where you want the constant typing.
+5. If the console displays "writing...", it indicates the application is functioning.
